@@ -1,0 +1,11 @@
+.main-footer {
+  color: white;
+  background-color: #005A8D;
+  padding-top: 3em;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+p h1 h2 h3 h4 h5 h6 {
+  cursor: pointer;
+}
